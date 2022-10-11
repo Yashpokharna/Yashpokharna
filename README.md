@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash!</h1>
 <h3 align="center">I am a full stack developer and a programmer!!</h3>
-<img align="right" alt="Coding" width="400" src="(https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)">
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
 
 - 🔭 I’m currently focusing on **developing websites using MERN stack.**
 
