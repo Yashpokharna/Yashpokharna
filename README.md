@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash!</h1>
 <h3 align="center">I am a full stack developer and a programmer!!</h3>
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="350"/>
 
 - 🔭 I’m currently focusing on **developing websites using MERN stack.**
 
