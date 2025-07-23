@@ -54,7 +54,7 @@
 ### 🔥 Recent Projects
 
 - [🧵 Twin Apparels Website](https://twinsapparels.in/)
-- [🧠 AI-Powered Portfolio](https://yash-brainwave.netlify.app/)
+- [🧠 AI-Powered Portfolio](https://yashpokharna.netlify.app/)
 - [📊 Expense Tracker](https://yashexpensetracker.netlify.app/)
 
 ---
