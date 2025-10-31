@@ -55,7 +55,7 @@
 
 - [🧵 Twin Apparels Website](https://twinsapparels.in/)
 - [🧠 AI-Powered Portfolio](https://yashpokharna.in/)
-- [📊 Expense Tracker](https://trackit.yashpokharna.in/)
+- [📊 Bolia & Co. ](https://bolia.netlify.app/)
 
 ---
 
