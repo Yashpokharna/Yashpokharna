@@ -53,8 +53,8 @@
 
 ### 🔥 Recent Projects
 
+- [🧠 Personal Portfolio](https://yashpokharna.in/)
 - [🧵 Twin Apparels Website](https://twinsapparels.in/)
-- [🧠 AI-Powered Portfolio](https://yashpokharna.in/)
 - [📊 Bolia & Co. ](https://bolia.netlify.app/)
 
 ---
